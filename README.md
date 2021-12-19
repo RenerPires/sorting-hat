@@ -1,2 +1,36 @@
-# Sorting Hat
-Chapéu Seletor do Universo de Harry Potter - Linguagem de programação usada: Python
+```r
+# UNOESTE - UNIVERSIDADE DO OESTE PAULISTA
+# SISTEMAS DA INFORMAÇÃO
+
+# TRABALHO EM GRUPO - CIÊNCIA DE DADOS
+# PROFESSOR MARIO AUGUSTO
+
+# NOMES - RA
+# FELIPE W. SANTOS - 262114666
+# JANINE M. OLIVEIRA - 262114682
+# RENER G. PIRES - 262114402
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
